@@ -1,7 +1,6 @@
 # WuShaoa.github.io
 
-Homepage link
-[https://wushaoa.github.io/]:https://wushaoa.github.io/
+Homepage link: https://wushaoa.github.io/
 
 [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
 
