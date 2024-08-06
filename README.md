@@ -1,9 +1,11 @@
 # WuShaoa.github.io
-Homepage
 
-Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
+Homepage link
+[https://wushaoa.github.io/]:https://wushaoa.github.io/
 
-This work is licensed under a
+[![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
+
+All crafts in homepage are licensed under a
 [Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].
 
 [![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc]
